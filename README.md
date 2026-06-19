@@ -2,7 +2,7 @@
 
 `EmulatedDouble` is a software-emulated IEEE 754 binary64 value for environments such as GPU programming where native double precision is unavailable, impractical, or limited to 32-bit floating-point hardware.
 
-All core code lives in [EmulatedDouble.h](https://github.com/yukiny0811/EmulatedDouble/Sources/EmulatedDoubleCore/include/EmulatedDouble.h). Download or copy that single file into your project and use it from C, C++, Objective-C, Swift through Clang import, or Metal Shading Language.
+All core code lives in [EmulatedDouble.h](https://github.com/yukiny0811/EmulatedDouble/tree/main/Sources/EmulatedDoubleCore/include/EmulatedDouble.h). Download or copy that single file into your project and use it from C, C++, Objective-C, Swift through Clang import, or Metal Shading Language.
 
 Swift conversion helpers are in:
 
